@@ -1,6 +1,6 @@
 # PIMSA - The Fin-tastic Money Management App
 
-<img src="https://www.freepik.com/premium-vector/happy-piggy-bank-mascot-design_2154283.htm" alt="piggy" />
+<img src="https://img.freepik.com/premium-vector/happy-piggy-bank-mascot-design_35422-31.jpg?w=500" alt="piggy" />
 
 Welcome to PIMSA, the only app that promises to make managing your money as enjoyable as finding forgotten cash in your pocket! 🤑
 
