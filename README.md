@@ -1,6 +1,6 @@
 # PIMSA - The Fin-tastic Money Management App
 
-![alt](https://piggy-bank.png)
+![alt](https://github.com/ashutoshgairola/Pimsa/blob/main/public/piggy-bank.png)
 
 Welcome to PIMSA, the only app that promises to make managing your money as enjoyable as finding forgotten cash in your pocket! 🤑
 
