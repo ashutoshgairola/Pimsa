@@ -1,6 +1,6 @@
 const IncomeCard = () => {
     return (
-        <div className="flex flex-col space-y-2 px-4 py-2 bg-red-400 rounded-lg w-3/5 relative ml-auto">
+        <div className="flex flex-col space-y-2 px-4 py-2 bg-red-400 rounded-lg w-3/5 relative ml-auto mt-4">
             <div className="absolute top-[-4px] right-[-15px] text-red-400 text-2xl">▶</div>
             <div className="flex justify-between items-center text-lg">
                 <div className=" font-bold">₹ 5000</div>

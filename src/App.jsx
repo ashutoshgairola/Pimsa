@@ -2,10 +2,10 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
 import Home from './pages/Home/Home';
-import Profile from './pages/Profile';
+import Profile from './pages/Profile/Profile';
 import Login from './pages/Login';
 import Insights from './pages/Insights/Insights';
-import Notifications from './pages/Notifications';
+import Notifications from './pages/Notification/Notifications';
 import Goals from './pages/Goals';
 import Flex from './pages/Flex';
 import ErrorPage from './pages/Error';
